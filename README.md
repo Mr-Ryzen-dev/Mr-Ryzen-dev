@@ -23,6 +23,10 @@
 <h1 align="center"> The software I use:</h1>
 <br/>
 
+<p align="center">
+<img src="https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white"/>
+</p>
+
 ![WIN11](https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0075eb?style=for-the-badge&logo=codecrafters&logoColor=white)
 ![VS](https://img.shields.io/badge/VS_Community-b84dff?style=for-the-badge&logo=codecrafters&logoColor=white)
