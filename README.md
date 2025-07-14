@@ -5,13 +5,10 @@
 - In my free time i love contributing to open source projects and playing video games
 - I'm currently working on a game for a game jam with my team: [![Github](https://img.shields.io/badge/TurboFrogg-e6002e?style=plastic)](https://github.com/TurboFrogg) [![Github](https://img.shields.io/badge/CadentLand4120-f04f72?style=plastic)](https://github.com/CadentLand4120)
 
-<h2 align="center"> My social networks: </h2>
-<br/>
+#My social networks:
 
 [![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrRyzen)
-<br/>
 [![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/-Mr-EvgOr-)
-<br/>
 [![vk](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mr_ryzen)
 
 ---
