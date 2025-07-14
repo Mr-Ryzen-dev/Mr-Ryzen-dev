@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
 </p>
 
-#CI/CD
+<h2 align="center"> CI/CD </h2>
 <br/>
 
 <p align="center">
