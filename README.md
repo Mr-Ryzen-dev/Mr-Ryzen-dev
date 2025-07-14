@@ -1,10 +1,10 @@
 <h1 align="center"> About Me: </h1>
 
-- I'm a backend developer from Russia
+- I'm a backend developer from Saint-Petersburg
 - In my free time i love contributing to open source projects and playing video games
 - I'm currently working on a game for a jam with my team: [![Github](https://img.shields.io/badge/TurboFrogg-e6002e?style=plastic)](https://github.com/TurboFrogg) [![Github](https://img.shields.io/badge/CadentLand4120-f04f72?style=plastic)](https://github.com/CadentLand4120)
 
-<h2 align="center"> My social networks </h2>
+<h2 align="center"> 🌐 My social networks </h2>
 
 <p align="center">
 <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -14,7 +14,7 @@
   
 ---
 
-<h1 align="center"> The software I use:</h1>
+<h1 align="center"> 🖥️ The software I use:</h1>
 <br/>
 
 <p align="center">
