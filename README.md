@@ -19,7 +19,7 @@
 ![VS](https://img.shields.io/badge/VS_Community-b84dff?style=for-the-badge&logo=codecrafters&logoColor=white)
 ![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=White)
-![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White)
+![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=[blender&logoColor=White](https://download.blender.org/branding/blender_logo_socket.png))
 ![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
 
 ---
