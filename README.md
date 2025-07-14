@@ -36,7 +36,7 @@
 
 <h1 align="center">My Tech Stack: </h1>
 <br/>
-#Programming Languages
+<h2 align="center"> Programming Languages </h2>
 <br/>
 <br/>
 
@@ -48,32 +48,19 @@
 <img src="https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge"/>
 </p>
 
-![C++](https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cython](https://img.shields.io/badge/cython-FEDF5B?style=for-the-badge)
-![UE Blueprints](https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge)
-
-#3D software
+<h2 align="center"> 3D Software </h2>
 <br/>
 
 <p align="center">
-<img src=""/>
-<img src=""/>
+<img src="https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White"/>
+<img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
 </p>
-
-![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
-![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White)
 
 #CI/CD
 <br/>
 
 <p align="center">
-<img src=""/>
-<img src=""/>
-<img src=""/>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/gitlfs-F64935?style=for-the-badge&logo=gitlfs&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![gitlfs](https://img.shields.io/badge/gitlfs-F64935?style=for-the-badge&logo=gitlfs&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
