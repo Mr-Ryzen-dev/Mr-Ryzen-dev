@@ -15,6 +15,8 @@
 <br/>
 
 ![WIN11](https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0075eb?style=for-the-badge&logo=codecrafters&logoColor=white)
+![VS](https://img.shields.io/badge/VS_Community-b84dff?style=for-the-badge&logo=codecrafters&logoColor=white)
 
 ---
 
@@ -25,12 +27,12 @@
 <br/>
 
 ![C++](https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-555555?style=for-the-badge&logo=codio&logoColor=white)
+![C](https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Cython](https://img.shields.io/badge/cython-FEDF5B?style=for-the-badge)
 ![UE Blueprints](https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge)
 
-#Game engines
+#3D software
 <br/>
 
 ![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
