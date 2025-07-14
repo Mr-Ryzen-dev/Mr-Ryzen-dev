@@ -25,7 +25,7 @@
 <br/>
 
 ![C++](https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/codio-555555?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Cython](https://img.shields.io/badge/cython-FEDF5B?style=for-the-badge)
 ![UE Blueprints](https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge)
