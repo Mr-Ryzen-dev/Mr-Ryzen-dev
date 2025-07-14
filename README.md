@@ -13,6 +13,7 @@
 
 <h1 align="center"> the software I use:</h1>
 <br/>
+
 ![WIN11](https://img.shields.io/badge/WIN11-4285F4?style=for-the-badge&logo=reasonstudios%2B%2B&logoColor=white)
 
 ---
