@@ -3,8 +3,8 @@
 
 ---
 
-<h1 align="center"> About Me </h1>
-<h2 align="center">My social networks</h2>
+<h1 align="center"> About Me: </h1>
+<h2 align="center"> My social networks: </h2>
   
 [![GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev)](https://github.com/Mr-Ryzen-dev/github-readme-stats)
 
