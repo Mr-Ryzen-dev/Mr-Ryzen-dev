@@ -1,7 +1,3 @@
-<h1 align="center"> Hello! I'm Mr_Ryzen </h1>
-
----
-
 <h1 align="center"> About Me: </h1>
 
 - I'm a backend developer from Russia
