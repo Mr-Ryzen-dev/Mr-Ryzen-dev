@@ -5,8 +5,11 @@
 
 <h1 align="center"> About Me </h1>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev)](https://github.com/Mr-Ryzen-dev/github-readme-stats)
+[![GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev)](https://github.com/Mr-Ryzen-dev/github-readme-stats)
 
-<h1 align="center">💻 My Tech Stack
+<h1 align="center">💻 My Tech Stack:
 
-<img src="https://img.shields.io/badge/logo-cplusplus-blue?logo=cplusplus"/>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
