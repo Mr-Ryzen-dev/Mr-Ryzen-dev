@@ -29,7 +29,6 @@
 
 #CI/CD
 <br/>
-<br/>
 
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![gitlfs](https://img.shields.io/badge/gitlfs-F64935?style=for-the-badge&logo=gitlfs&logoColor=white)
