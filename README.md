@@ -13,7 +13,7 @@
 
 <h1 align="center">My Tech Stack: </h1>
 <br/>
-<h2 align="center"> Programming Languages </h2>
+#Programming Languages
 <br/>
 <br/>
 
