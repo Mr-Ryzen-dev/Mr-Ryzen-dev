@@ -52,7 +52,7 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White"/>
+<img src="https://img.shields.io/badge/unreal_engine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White"/>
 <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
 </p>
 
