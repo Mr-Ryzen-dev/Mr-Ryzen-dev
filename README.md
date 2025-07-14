@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my profile! </h1>
  
-<align="center"> Hi, I'm Mr-Ryzen aka Stanislav
+<h2 align="center"> Hi, I'm Mr-Ryzen aka Stanislav
 
 ---
 
