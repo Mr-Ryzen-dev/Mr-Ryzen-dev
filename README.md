@@ -28,7 +28,7 @@
 
 ---
 
-<h1 align="center">My Tech Stack: </h1>
+<h1 align="center">💻 My Tech Stack: </h1>
 <br/>
 <p align="center"> #Programming Languages </p>
 
