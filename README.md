@@ -9,10 +9,8 @@
 
 <p align="center">
 <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
-[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrRyzen)
-[![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/-Mr-EvgOr-)
-[![vk](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/mr_ryzen)
+<a href=https://steamcommunity.com/id/-Mr-EvgOr-><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href=[https://t.me/MrRyzen](https://vk.com/mr_ryzen)><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 
 ---
   
