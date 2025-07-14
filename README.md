@@ -17,7 +17,7 @@
 </p>
   
 <!-- GRS (Light Mode) -->
-<a href="https://github.com/qwerty541#gh-light-mode-only">
+<a href="https://github.com/Mr-Ryzen-dev#gh-light-mode-only">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
@@ -39,7 +39,7 @@
 </a>
 
 <!-- GRS (Dark Mode) -->
-<a href="https://github.com/qwerty541#gh-dark-mode-only">
+<a href="https://github.com/Mr-Ryzen-dev#gh-dark-mode-only">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
@@ -62,7 +62,7 @@
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-light-mode-only">
+  <a href="https://github.com/Mr-Ryzen-dev#gh-light-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=qwerty541&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000&disable_animations=true"
        alt="My GitHub streak stats"
@@ -73,7 +73,7 @@
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <a href="https://github.com/Mr-Ryzen-dev#gh-dark-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=qwerty541&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true&disable_animations=true"
        alt="My GitHub streak stats"
@@ -83,7 +83,7 @@
 
 <!-- WakaTime stats (Light mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-light-mode-only">
+  <a href="https://github.com/Mr-Ryzen-dev#gh-light-mode-only">
     <img
         src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29&disable_animations=true"
         alt="My Wakatime stats"
@@ -93,7 +93,7 @@
 
 <!-- WakaTime stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <a href="https://github.com/Mr-Ryzen-dev#gh-dark-mode-only">
     <img
         src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=qwerty541&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29&disable_animations=true"
         alt="My Wakatime stats"
