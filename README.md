@@ -1,4 +1,4 @@
-<h1 align="center"> About Me: </h1>
+<h1 align="center"> 🗒️ About Me: </h1>
 
 - I'm a backend developer from Saint-Petersburg
 - In my free time i love contributing to open source projects and playing video games
