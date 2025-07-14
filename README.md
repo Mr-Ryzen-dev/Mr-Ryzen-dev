@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my profile! </h1>
  
-<h2 align="center"> Hello, I'm Mr-Ryzen
+<h2 align="center"> Hello, I'm Mr-Ryzen </h2>
 
 - I'm a backend developer from Russia
 - In my free time i love contributing to open source projects and playing video games
