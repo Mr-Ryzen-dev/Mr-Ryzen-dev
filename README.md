@@ -36,8 +36,7 @@
 
 <h1 align="center">My Tech Stack: </h1>
 <br/>
-<p align="center"> Programming Languages </p>
-<br/>
+<p align="center"> #Programming Languages </p>
 <br/>
 
 <p align="center">
@@ -48,7 +47,7 @@
 <img src="https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge"/>
 </p>
 
-<h2 align="center"> 3D Software </h2>
+<p align="center"> #3D software </p>
 <br/>
 
 <p align="center">
@@ -56,7 +55,7 @@
 <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
 </p>
 
-<h2 align="center"> CI/CD </h2>
+<p align="center"> CI/CD </p>
 <br/>
 
 <p align="center">
