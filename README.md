@@ -20,7 +20,6 @@
 ![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=White)
 ![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White)
-![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
 
 ---
 
