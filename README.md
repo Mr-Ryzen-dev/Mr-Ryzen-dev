@@ -32,13 +32,6 @@
 <img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
 </p>
 
-![WIN11](https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0075eb?style=for-the-badge&logo=codecrafters&logoColor=white)
-![VS](https://img.shields.io/badge/VS_Community-b84dff?style=for-the-badge&logo=codecrafters&logoColor=white)
-![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
-![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=White)
-![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White)
-
 ---
 
 <h1 align="center">My Tech Stack: </h1>
@@ -46,6 +39,14 @@
 #Programming Languages
 <br/>
 <br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/cython-FEDF5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge"/>
+</p>
 
 ![C++](https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white)
@@ -56,11 +57,22 @@
 #3D software
 <br/>
 
+<p align="center">
+<img src=""/>
+<img src=""/>
+</p>
+
 ![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
 ![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White)
 
 #CI/CD
 <br/>
+
+<p align="center">
+<img src=""/>
+<img src=""/>
+<img src=""/>
+</p>
 
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![gitlfs](https://img.shields.io/badge/gitlfs-F64935?style=for-the-badge&logo=gitlfs&logoColor=white)
