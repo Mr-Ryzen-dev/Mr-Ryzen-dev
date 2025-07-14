@@ -4,7 +4,7 @@
 
 - I'm a backend developer from Russia
 - In my free time i love contributing to open source projects and playing video games
-- I'm currently working on a game for a game jam with my team - [![Github](https://img.shields.io/badge/TurboFrogg-Red?style=for-the-badge)](https://github.com/TurboFrogg)
+- I'm currently working on a game for a game jam with my team: [![Github](https://img.shields.io/badge/TurboFrogg-Red?style=for-the-badge)](https://github.com/TurboFrogg)
 
 ---
 
