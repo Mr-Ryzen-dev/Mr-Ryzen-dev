@@ -1,9 +1,5 @@
 <h1 align="center"> Hello! I'm Mr_Ryzen </h1>
 
-<p align="center">
- <img src="assets/github-snake.svg" alt="GitHub Snake Game" width="600"/>
-</p>
-
 ---
 
 <h1 align="center"> About Me: </h1>
