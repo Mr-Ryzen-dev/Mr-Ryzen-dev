@@ -7,8 +7,9 @@
   
 [![GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev)](https://github.com/Mr-Ryzen-dev/github-readme-stats)
 
-<h1 align="center">💻 My Tech Stack:
+---
 
+<h1 align="center">💻 My Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
