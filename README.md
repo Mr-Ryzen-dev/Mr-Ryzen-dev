@@ -12,8 +12,6 @@
 <a href=https://steamcommunity.com/id/-Mr-EvgOr-><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href=https://vk.com/mr_ryzen><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
-
----
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev)](https://github.com/Mr-Ryzen-dev/github-readme-stats)
 
