@@ -11,7 +11,7 @@
 
 <h1 align="center">💻 My Tech Stack:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Unreal engine 5](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=#0E1128)
