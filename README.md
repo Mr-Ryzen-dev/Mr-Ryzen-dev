@@ -11,7 +11,7 @@
 
 ---
 
-<h1 align="center"> the software I use:</h1>
+<h1 align="center"> The software I use:</h1>
 <br/>
 
 ![WIN11](https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white)
