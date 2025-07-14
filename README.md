@@ -18,8 +18,8 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cython](https://img.shields.io/badge/cython-fff5c2?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cython](https://img.shields.io/badge/cython-FEDF5B?style=for-the-badge)
 ![UE Blueprints](https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge)
 
 #Game engines
