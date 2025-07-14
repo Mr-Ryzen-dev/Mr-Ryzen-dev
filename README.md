@@ -36,7 +36,7 @@
 
 <h1 align="center">My Tech Stack: </h1>
 <br/>
-<h2 align="center"> Programming Languages </h2>
+<p align="center"> Programming Languages </p>
 <br/>
 <br/>
 
