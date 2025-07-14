@@ -17,6 +17,10 @@
 ![WIN11](https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0075eb?style=for-the-badge&logo=codecrafters&logoColor=white)
 ![VS](https://img.shields.io/badge/VS_Community-b84dff?style=for-the-badge&logo=codecrafters&logoColor=white)
+![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
+![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=White)
+![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
+![Unreal engine 5](https://img.shields.io/badge/unrealengine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White)
 
 ---
 
