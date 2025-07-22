@@ -29,6 +29,7 @@
 ---
 
 <h1>💻 My Tech Stack: </h1>
+<p align="center">
 <img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -39,3 +40,4 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlfs-F64935?style=for-the-badge&logo=gitlfs&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
