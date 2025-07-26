@@ -10,24 +10,10 @@
 <a href=https://steamcommunity.com/id/-Mr-EvgOr-><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href=https://vk.com/mr_ryzen><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
-  
----
-
-<h1 align="center"> 🖥️ The software I use:</h1>
-<br/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/windows_11-4285F4?style=for-the-badge&logo=reasonstudios&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-0075eb?style=for-the-badge&logo=codecrafters&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Community-b84dff?style=for-the-badge&logo=codecrafters&logoColor=white"/>
-<img src="https://img.shields.io/badge/unreal_engine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White"/>
-<img src="https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=White"/>
-<img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
-</p>
 
 ---
 
-<h1>💻 My Tech Stack: </h1>
+<h1  align="center">💻 My Tech Stack: </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white"/>
