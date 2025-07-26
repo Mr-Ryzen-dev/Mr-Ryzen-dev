@@ -2,7 +2,6 @@
 
 - I'm a backend developer from Saint-Petersburg
 - In my free time i love contributing to open source projects and playing video games
-- I'm currently working on a game for a jam with my team: [![Github](https://img.shields.io/badge/TurboFrogg-e6002e?style=plastic)](https://github.com/TurboFrogg) [![Github](https://img.shields.io/badge/CadentLand4120-f04f72?style=plastic)](https://github.com/CadentLand4120)
 
 <h2 align="center"> 🌐 My social networks </h2>
 
