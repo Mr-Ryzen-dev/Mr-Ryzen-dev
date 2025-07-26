@@ -3,7 +3,7 @@
 - I'm a backend developer from Saint-Petersburg
 - In my free time i love contributing to open source projects and playing video games
 
-<h2 align="center"> 🌐 My social networks </h2>
+<h2 align="center"> 🌐 Connect with me </h2>
 
 <p align="center">
 <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
