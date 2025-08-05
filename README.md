@@ -1,7 +1,7 @@
 <h1 align="center"> 🗒️ About Me: </h1>
 
 - I'm a backend developer from Saint-Petersburg
-- In my free time, i love contributing to open source projects and create games and movies with my team in blender and Unreal engine 5
+- In my free time, i love contributing to open source projects and create games and movies with my team in Blender, Garry's mod and Unreal Engine 5
 <h2 align="center"> 🌐 Connect with me </h2>
 
 <p align="center">
