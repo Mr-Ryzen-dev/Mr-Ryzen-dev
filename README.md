@@ -23,3 +23,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+<h2 align="center"> ✉️ My project social networks: </h2>
+<a href=https://www.youtube.com/@Shedros-Studio><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href=vk.com/shedrosstudiofilms><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
+<a href=vk.com/shedrosgames><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
+<a href=t.me/ShedrosStudio><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
