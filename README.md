@@ -28,11 +28,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&text_bold=true&show_icons=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=transparent&hide_border=true&text_bold=true)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&text_bold=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=donut&theme=tokyonight&hide_border=true&text_bold=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=donut&theme=tokyonight&hide_border=true&text_bold=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
