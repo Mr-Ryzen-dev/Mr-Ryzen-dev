@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hey there 🖐️</h1>
 
----
+<h2 align="center"> This is my stats:</h2>
 
 <div align="center">
 
