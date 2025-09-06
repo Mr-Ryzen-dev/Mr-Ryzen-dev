@@ -32,7 +32,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&text_bold=true&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=donut&theme=tokyonight&hide_border=true&text_bold=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=compact&theme=tokyonight&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
