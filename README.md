@@ -2,12 +2,10 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ltbXRmYnBxMWl2ZHhsMjhsY21uNHd1dXhqbXAwdXY3Yjl6MGZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
 
-<hr>
-
 <h1 align="center"> 🗒️ About Me: </h1>
 
 - I'm a developer from Saint-Petersburg
-- In my free time, i love develop games, and create movies in Blender, Obsidian and Unreal Engine 5
+- In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
 
 <h2 align="center"> 🌐 Connect with me </h2>
 
@@ -20,6 +18,10 @@
 <hr>
 
 <h1  align="center">💻 My Tech Stack: </h1>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
