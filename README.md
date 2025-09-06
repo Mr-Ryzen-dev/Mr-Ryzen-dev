@@ -6,14 +6,16 @@
 
 ---
 
-<h1 align="center"> 🗒️ About Me: </h1>
+<h1 align="center"> hey there 🖐️</h1>
+
+<h2 align="center"> 🗒️ About Me: </h1>
 
 - I'm a developer from Saint-Petersburg
 - In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
 
 ---
 
-<h1 align="center"> 🌐 Connect with me: </h2>
+<h2 align="center"> 🌐 Connect with me: </h2>
 
 <p align="center">
 <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -23,7 +25,7 @@
 
 ---
 
-<h1  align="center">💻 My languages and tools Stack: </h1>
+<h2  align="center">💻 My languages and tools Stack: </h1>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPP" width="50" height="50"/>&nbsp;
@@ -37,7 +39,7 @@
 
 ---
 
-<h1 align="center"> ✉️ Social networks of my projects: </h2>
+<h2 align="center"> ✉️ Social networks of my projects: </h2>
 
 <p align="center">
 <a href=https://www.youtube.com/@Shedros-Studio><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
