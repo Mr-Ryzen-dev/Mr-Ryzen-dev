@@ -10,7 +10,7 @@
 
 </div>
 
-<h2> 🗒️ About Me: </h2>
+<h2 align="center"> 🗒️ About Me: </h2>
 
 - I'm a developer from Saint-Petersburg
 - In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
