@@ -10,7 +10,7 @@
 <a href=https://vk.com/mr_ryzen><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 
----
+<hr>
 
 <h1  align="center">💻 My Tech Stack: </h1>
 <p align="center">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+<hr>
 
 <h2 align="center"> ✉️ My project social networks: </h2>
 
