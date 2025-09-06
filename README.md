@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=24&pause=1000&color=317FF7&center=true&vCenter=true&width=435&lines=-+%3D+Kustam+Shedros+%3D+-)](https://git.io/typing-svg)
+
+</div>
 
 <h1 align="center"> Hey there 🖐️</h1>
 
