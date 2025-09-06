@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h1  align="center">💻 My languages and tools stack: </h1>
