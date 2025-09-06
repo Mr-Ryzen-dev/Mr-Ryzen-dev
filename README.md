@@ -19,20 +19,15 @@
 
 <h1  align="center">💻 My Tech Stack: </h1>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="UnrealEngine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender3D" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/c++-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-555555?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/UE_blueprints-4755bf?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/unreal_engine-1c224f?style=for-the-badge&logo=unrealengine&logoColor=White"/>
-<img src="https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=White"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/html-808080?style=for-the-badge&logo=html&logoColor=white"/>
-</p>
 
 <h2 align="center"> ✉️ Social networks of my projects: </h2>
 
