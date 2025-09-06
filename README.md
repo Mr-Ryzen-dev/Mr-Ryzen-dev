@@ -34,7 +34,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=compact&theme=tokyonight&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=15)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ryzen-dev&custom_title=This%20is%20a%20title&hide_border=true&theme=tokyonight&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ryzen-dev&hide_border=true&theme=tokyo-night&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=15&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
