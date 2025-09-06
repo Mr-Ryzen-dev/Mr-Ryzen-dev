@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
