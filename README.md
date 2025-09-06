@@ -2,11 +2,13 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ltbXRmYnBxMWl2ZHhsMjhsY21uNHd1dXhqbXAwdXY3Yjl6MGZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
 
----
-
----
-
 <h1 align="center"> hey there 🖐️</h1>
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev)](https://git.io/streak-stats)
+
+---
 
 <h2 align="center"> 🗒️ About Me: </h1>
 
