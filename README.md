@@ -1,8 +1,8 @@
-<h1 align="center"> 🗒️ About Me: </h1>
-
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ltbXRmYnBxMWl2ZHhsMjhsY21uNHd1dXhqbXAwdXY3Yjl6MGZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
+
+<h1 align="center"> 🗒️ About Me: </h1>
 
 - I'm a developer from Saint-Petersburg
 - In my free time, i love contributing to open source projects and create games and movies in Blender, Obsidian and Unreal Engine 5
