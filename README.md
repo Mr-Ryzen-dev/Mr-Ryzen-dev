@@ -6,6 +6,11 @@
 
 <h1 align="center"> Hey there 🖐️</h1>
 
+<h1 align="center"> 🗒️ About Me: </h1>
+
+- I'm a developer from Saint-Petersburg
+- In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
+
 <h2 align="center"> This is my stats:</h2>
 
 <div align="center">
@@ -15,14 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-
-<h1 align="center"> 🗒️ About Me: </h1>
-
-- I'm a developer from Saint-Petersburg
-- In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
 
 ---
 
