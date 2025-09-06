@@ -10,8 +10,6 @@
 
 </div>
 
-<h1 align="center"> Hey there 🖐️</h1>
-
 <h2> 🗒️ About Me: </h2>
 
 - I'm a developer from Saint-Petersburg
