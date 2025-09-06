@@ -6,9 +6,14 @@
 
 ---
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev)](https://git.io/streak-stats)
 
+</div>
+
 ---
+
 
 <h2 align="center"> 🗒️ About Me: </h1>
 
