@@ -7,7 +7,7 @@
 - I'm a developer from Saint-Petersburg
 - In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
 
-<h2 align="center"> 🌐 Connect with me </h2>
+<h1 align="center"> 🌐 Connect with me: </h2>
 
 <p align="center">
 <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
