@@ -11,7 +11,7 @@
 - I'm a developer from Saint-Petersburg
 - In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
 
-<h3 align="center"> 🌐 Connect with me: </h2>
+<h3 align="center"> 🌐 Join me and my community: </h2>
 
 <div align="center">
 
