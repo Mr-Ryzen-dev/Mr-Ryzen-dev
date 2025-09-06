@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hey there 🖐️</h1>
 
-<h1 align="center"> 🗒️ About Me: </h1>
+<h2 align="center"> 🗒️ About Me: </h1>
 
 - I'm a developer from Saint-Petersburg
 - In my free time, i love to develop games, and create movies in Blender, Obsidian and Unreal Engine 5
