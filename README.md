@@ -15,7 +15,7 @@
 <a href=https://vk.com/mr_ryzen><img src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </p>
 
-<hr>
+---
 
 <h1  align="center">💻 My Tech Stack: </h1>
 
