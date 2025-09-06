@@ -34,7 +34,7 @@
 
 </div>
 
-<h1  align="center">💻 My languages and tools Stack: </h1>
+<h1  align="center">💻 My languages and tools stack: </h1>
 
 <div align="center">
 
