@@ -19,11 +19,11 @@
 
 <div align="center">
 
-  <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-808080?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href=https://steamcommunity.com/id/-Mr-EvgOr-><img src="https://img.shields.io/badge/steam-666666?style=for-the-badge&logo=steam&logoColor=white"/></a>
-  <a href=https://vk.com/mr_ryzen><img src="https://img.shields.io/badge/vk-f2d8bd?style=for-the-badge&logo=vk&logoColor=white"/></a>
-  <a href=https://www.youtube.com/@Shedros-Studio><img src="https://img.shields.io/badge/ Youtube-f2e8c9?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href=https://discord.com/invite/gw3AmHUBGb><img src="https://img.shields.io/badge/discord-e8d6a0?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href=https://t.me/MrRyzen><img src="https://img.shields.io/badge/telegram-e8d6a0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href=https://steamcommunity.com/id/-Mr-EvgOr-><img src="https://img.shields.io/badge/steam-f2e8c9?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href=https://vk.com/kustamshedros><img src="https://img.shields.io/badge/vk-f2d8bd?style=for-the-badge&logo=vk&logoColor=white"/></a>
+  <a href=https://www.youtube.com/@Shedros-Studio><img src="https://img.shields.io/badge/ Youtube-808080?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href=https://discord.com/invite/gw3AmHUBGb><img src="https://img.shields.io/badge/discord-666666?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
 
