@@ -39,6 +39,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ryzen-dev&hide_border=true&theme=tokyo-night&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=15&radius=6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ryzen-dev)](https://github.com/Mr-Ryzen-dev/github-readme-activity-graph)
+
 </div>
 
 
