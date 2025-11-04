@@ -40,15 +40,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ryzen-dev&hide_border=true&theme=tokyo-night&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=25&days=30&radius=16&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
-
+ <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
 
 </div>
 
