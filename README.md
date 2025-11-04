@@ -40,6 +40,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Ryzen-dev&hide_border=true&theme=tokyo-night&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=25&days=30&radius=16&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Ryzen-dev&theme=dark)](https://git.io/streak-stats)
+
 </div>
 
 
