@@ -31,9 +31,7 @@
 <h1 align="center"> My stats:</h2>
 
 <div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mr-Ryzen-dev"/></a>
-
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&border_radius=0&card_width=550&card_height=150&background=EB545400)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&text_bold=true&show_icons=true&bg_color=00000000&card_width=550&card_height=15)](https://github.com/anuraghazra/github-readme-stats)
