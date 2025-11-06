@@ -13,7 +13,7 @@
 <h2 align="center"> 🗒️ About Me: </h2>
 
 - I'm a developer from Saint-Petersburg
-- In my free time I love to develop games and create movies in Blender, Obsidian and Unreal Engine 5
+- In my free time I love to build a creative projects in Blender, Obsidian and Unreal Engine 5
 
 <h3 align="center"> 🌐 Join me and my community: </h2>
 
