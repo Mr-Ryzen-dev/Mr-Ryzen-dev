@@ -34,6 +34,8 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&border_radius=0&card_width=550&card_height=150&background=EB545400)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&border_radius=0&card_width=550&card_height=150&background=EB545400)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Ryzen-dev&theme=tokyonight&hide_border=true&text_bold=true&show_icons=true&bg_color=00000000&card_width=550&card_height=15)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Ryzen-dev&layout=compact&theme=tokyonight&hide_border=true&text_bold=true&bg_color=00000000&langs_count=20&card_width=550&card_height=15)](https://github.com/anuraghazra/github-readme-stats)
