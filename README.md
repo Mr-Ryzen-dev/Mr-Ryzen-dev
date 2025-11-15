@@ -1,10 +1,3 @@
-<div id="header" align="center">
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ltbXRmYnBxMWl2ZHhsMjhsY21uNHd1dXhqbXAwdXY3Yjl6MGZwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
-
-</div>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=-+%3D+Kustam+Shedros+%3D+-)](https://git.io/typing-svg)
 
